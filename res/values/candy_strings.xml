@@ -50,7 +50,6 @@
     <string name="status_bar_ticker_title">Notification Ticker</string>
     <string name="status_bar_ticker_summary">Notification text animation in the statusbar</string>
 
-
    <!-- Custom navigation bar targets -->
     <string name="choose_action_double_tap_title">Choose double tap action</string>
     <string name="choose_action_title">Choose action</string>
@@ -118,18 +117,18 @@
     <string name="color_default">Default</string>
     
     <!-- OmniSwitch -->
-	<string name="omniswitch_settings_title">OmniSwitch</string>
-	<string name="omniswitch_category">OmniSwitch</string>
-	<string name="recents_use_omniswitch_title">Use for recents</string>
-	<string name="recents_use_omniswitch_summary">Use OmniSwitch instead of default recents view</string>
-	<string name="omniswitch_start_settings_title">Settings</string>
-	<string name="omniswitch_start_settings_summary">Open OmniSwitch settings</string>
-	<string name="omniswitch_first_time_title">Information</string>
-	<string name="omniswitch_first_time_message">Make sure you have enabled OmniSwitch. You can do this by using \"Settings\" below</string>    
+    <string name="omniswitch_settings_title">OmniSwitch</string>
+    <string name="omniswitch_category">OmniSwitch</string>
+    <string name="recents_use_omniswitch_title">Use for recents</string>
+    <string name="recents_use_omniswitch_summary">Use OmniSwitch instead of default recents view</string>
+    <string name="omniswitch_start_settings_title">Settings</string>
+    <string name="omniswitch_start_settings_summary">Open OmniSwitch settings</string>
+    <string name="omniswitch_first_time_title">Information</string>
+    <string name="omniswitch_first_time_message">Make sure you have enabled OmniSwitch. You can do this by using \"Settings\" below</string>    
  
 
-	<!-- CandyRoms team -->
-	<string name="candykat_team_title">CandyRoms team</string>
+    <!-- CandyRoms team -->
+    <string name="candykat_team_title">CandyRoms team</string>
     <string name="candy_matthew0776_title">matthew0776</string>
     <string name="candy_mar5hal_title">mar5hal</string>
     <string name="candy_CyberScopes_title">CyberScopes</string>
@@ -615,5 +614,13 @@
     <string name="shortcut_action_media_play_pause">Music - play/pause</string>
     <string name="shortcut_action_media_previous">Music - previous track</string>
     <string name="shortcut_action_wake_device">Wake up device</string>
-    
+
+     <!-- Navigation bar -->
+    <string name="navbar_enable_bar_title">Enable on-screen nav bar</string>
+    <string name="navbar_enable_bar_summary">Enable on-screen nav bar and disable hardware buttons</string>
+
+    <!-- Ability to disable hardware keys via nav bar settings -->
+    <string name="hw_keys_title">Hardware keys</string>
+    <string name="hw_keys_summary">Enable hardware keys</string>
+
 </resources>
